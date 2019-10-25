@@ -6,7 +6,7 @@
 
 <H1>Project Poster</H1>
 
-https://github.com/Melissaa12/Ohsnappp/issues/1#issue-512291515
+![Digital World 1D Poster Final] (https://github.com/Melissaa12/Ohsnappp/issues/1#issue-512291515)
 
 <H1>Learning Points </H1>
 <ul>
