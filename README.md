@@ -6,8 +6,7 @@
 
 <H1>Project Poster</H1>
 
-![poster 14-6](https://user-images.githubusercontent.com/55970776/66256410-1eeb8780-e7c0-11e9-85ad-0ad6aeb6067b.jpg)
-
+https://github.com/Melissaa12/Ohsnappp/issues/1#issue-512291515
 
 <H1>Learning Points </H1>
 <ul>
