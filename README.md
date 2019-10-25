@@ -6,7 +6,7 @@
 
 <H1>Project Poster</H1>
 
-https://github.com/Melissaa12/Ohsnappp/blob/master/Digital%20World%201D%20Poster%20Final.pdf
+[Digital World 1D Poster Final.pdf](https://github.com/Melissaa12/Ohsnappp/files/3770346/Digital.World.1D.Poster.Final.pdf)
 <H1>Learning Points </H1>
 <ul>
   <li>Raspberry Pi</li>
