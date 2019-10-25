@@ -8,7 +8,7 @@
 
 ![Ohsnappp Poster](https://user-images.githubusercontent.com/55970776/67543061-27314580-f722-11e9-9716-d0698a966cdf.PNG)
 
-
+<H1>Learning Points </H1>
 <ul>
   <li>Raspberry Pi</li>
   <li>Python</li>
