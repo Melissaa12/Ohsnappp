@@ -5,7 +5,8 @@
 <br> <b>Main Idea:</b> Establish an automated camera system that will be able to capture vital lesson contents. Students can send instruction to take pictures through a Telegram bot whilst teachers and admins can use the kivy app to adjust camera position. The Kivy app has a log in interface to prevent misuse by students.
 
 <H1>Project Poster</H1>
-![image](https://user-images.githubusercontent.com/55970776/67542962-cbff5300-f721-11e9-9af7-bd901253e7ff.png)<H1>Learning Points </H1>
+![Ohsnappp Poster](https://user-images.githubusercontent.com/55970776/67543061-27314580-f722-11e9-9716-d0698a966cdf.PNG)
+
 <ul>
   <li>Raspberry Pi</li>
   <li>Python</li>
